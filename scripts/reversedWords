@@ -1,0 +1,3 @@
+def reverse_string_words(s):
+    for line in s.split('\n'):
+        return(' '.join(line.split()[::-1]))
