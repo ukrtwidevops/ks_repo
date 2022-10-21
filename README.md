@@ -1,9 +1,7 @@
 # This is a README file
 
-_looks decent isn't it?_
+_I'll just post here my codewars solutions link_
 
-**bold letters wow**
-
-Markdown is awesome
+**https://www.codewars.com/users/coquina/completed_solutions**
 
 &copy;
